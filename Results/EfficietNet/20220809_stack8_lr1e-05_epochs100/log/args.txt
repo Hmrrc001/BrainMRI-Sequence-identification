@@ -1,0 +1,10 @@
+------------------ start --------------
+cuda:0
+dataroot:../data/MRISeq/0628split
+lr:1e-05
+epoch:100
+batch:32
+stack:8
+model:EfficientNet
+pretrained:True
+------------------ end --------------

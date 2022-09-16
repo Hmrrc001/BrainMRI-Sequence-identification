@@ -1,0 +1,10 @@
+FLAIR_cor,0
+FLAIR_tra,1
+MRA_head,2
+Other,3
+T1_tra,4
+T1c_cor,5
+T1c_sag,6
+T1c_tra,7
+T2_sag,8
+T2_tra,9
